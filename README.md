@@ -20,7 +20,7 @@ This program implements the Caesar Cipher algorithm in Python. The Caesar Cipher
 ## Files
 
 - `caesar_cipher.py`: Contains the main program logic.
-- `art.py`: Contains the ASCII art for the program logo.
+- `logo.py`: Contains the ASCII art for the program logo.
 
 
 ## Acknowledgments
